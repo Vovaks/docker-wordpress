@@ -1,5 +1,0 @@
-Установка докера для WP:
-	https://www.8host.com/blog/ustanovka-wordpress-i-phpmyadmin-s-pomoshhyu-docker-compose-v-ubuntu-14-04/
-	https://www.youtube.com/watch?v=pkp_Dr_4pOA
-Создание сайта:
-	https://www.youtube.com/watch?v=7IHhkOKaGxY

@@ -1,2 +1,4 @@
 /mysql/*
 /www/*
+.idea/
+Helper.txt
