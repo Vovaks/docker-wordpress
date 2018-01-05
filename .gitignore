@@ -1,4 +1,6 @@
-/mysql/*
-/www/*
+mysql/*
+!www/.gitignore
+www/wp-admin/
+www/wp-includes/
 .idea/
 Helper.txt
